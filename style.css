@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-image: url('meadow-3628843_1920.jpg');
+}
+header{
+    height: 100px;
+    background-color: rgb(21, 240, 167);
+    
+}
+header h1{
+    text-align: center;
+    padding: 25px;
+    font-family: 'Finger Paint', cursive;
+    color: green;
+}
+main{
+    margin: auto;
+    width: 500px;
+    background-color: ivory;
+    
+    height: 500px;
+}
