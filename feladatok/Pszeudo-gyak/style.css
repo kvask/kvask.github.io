@@ -1,0 +1,31 @@
+div{
+    width: 300px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+}
+
+
+#box1:hover{
+    background-color: blue;
+}
+
+#box2:hover{
+    background-color: red;
+}
+
+#box3:hover{
+    background-color:yellowgreen;
+}
+
+#box4:hover{
+    background-color: purple;
+}
+
+#box5:hover{
+    background-color:pink;
+}
+
+#box6:hover{
+    background-color: gold;
+}
